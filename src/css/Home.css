@@ -1,0 +1,25 @@
+.Home{
+    background-image: url('https://printler.com/media/photo/104838.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+/* .Home h1{
+    display: inline;
+ } */
+
+ .Home h1,p{
+    background: unset;
+ }
+
+
+
+  button{
+    border-radius: 5px;
+    border: none;
+    background-color: rgb(145, 126, 21);
+    color: white;
+    padding: 2pc;
+
+  }

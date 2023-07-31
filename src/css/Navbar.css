@@ -1,0 +1,32 @@
+
+.Navbar{
+    display: flex;
+    height: 5pc;
+    align-items: center;
+    
+}
+
+ul{
+    display: flex;
+    margin: 2pc;
+    list-style-type: none;
+}
+
+li{
+    margin-right: 2pc;
+}
+
+/* ul li:first-child{
+    margin-left: 1px;
+} */
+
+img{
+    height: 4pc;
+    width: 4pc;
+    margin: 1pc;
+}
+
+div a{
+    color: black;
+    text-decoration: none;
+}

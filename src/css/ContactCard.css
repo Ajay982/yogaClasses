@@ -1,0 +1,29 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.column{
+    flex-direction: column;
+    background-color: aliceblue;
+}
+
+.container div{
+    /* width: 50%; */
+    justify-content: center;
+   
+    margin: 5%;
+}
+
+.contactIcon{
+    font-size: 3pc;
+    color: rgb(0, 122, 112);
+}
+
+.getInTouch{
+    margin-bottom: 2pc;
+}
+
+.height60{
+    height: 60%;
+}
